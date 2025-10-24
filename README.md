@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets/banner.gif" alt="Banner" width="920">
+  <img src="assets/banner.gif" alt="Banner" width="320">
 </p>
 
 <h1 align="center">Hi, I'm <b>Subhankar Dey</b> 👋</h1>
