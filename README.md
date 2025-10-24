@@ -1,18 +1,18 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets/banner.gif" alt="Banner" width="320">
+  <img src="assets/banner.gif" alt="Banner" width="920">
 </p>
 
 <h1 align="center">Hi, I'm <b>Subhankar Dey</b> 👋</h1>
 
 <!-- Typing intro -->
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=700&lines=Front-End+Developer;React.js+%7C+Next.js+%7C+React+Native;Clean+UI%2C+great+UX%2C+and+high+performance">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=700&lines=Front-End+Developer;React.js+%7C+Next.js+%7C+React+Native;Clean+UI%2C+great+UX%2C+and+high+performance" alt="Typing intro">
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=720&lines=Front-End+Developer;React.js+%7C+Next.js+%7C+React+Native;Clean+UI%2C+great+UX%2C+and+high+performance">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=720&lines=Front-End+Developer;React.js+%7C+Next.js+%7C+React+Native;Clean+UI%2C+great+UX%2C+and+high+performance" alt="Typing intro">
   </a>
 </p>
 
-<!-- Quick badges -->
+<!-- Badges / counters -->
 <p align="center">
   <a href="https://github.com/sdey1122?tab=followers">
     <img src="https://img.shields.io/github/followers/sdey1122?label=Followers&style=for-the-badge" alt="Followers">
@@ -26,18 +26,31 @@
 ---
 
 ### ✨ About Me
-I’m **Subhankar Dey**, a **Front-End Developer** who turns ideas into clean, responsive, and visually engaging products.  
-I work with **HTML**, **CSS**, **JavaScript**, **React.js**, **Next.js**, and **React Native**—and I love crafting modern UI with **Tailwind CSS** & **Bootstrap**.
+<p align="center">
+I’m <b>Subhankar Dey</b>, a <b>Front-End Developer</b> who turns ideas into clean, responsive, and visually engaging products.<br/>
+I work with <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>React.js</b>, <b>Next.js</b>, and <b>React Native</b>—and I love crafting modern UI with <b>Tailwind CSS</b> &amp; <b>Bootstrap</b>.
+</p>
 
-- 🎯 Focus: **pixel-perfect UI**, **smooth interactions**, **performance & accessibility**
-- ♻️ Code style: **clean, reusable, component-driven**
-- 🚀 Building: fast, intuitive interfaces that feel great on every device
+<p align="center">
+• <b>Pixel-perfect UI</b> • <b>Smooth interactions</b> • <b>Performance & Accessibility</b> • <b>Reusable, component-driven code</b>
+</p>
 
 ---
 
 ### 🧰 Tech Stack
+<h4 align="center">Languages & Databases</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,tailwind,bootstrap,materialui,styledcomponents,git,github,vscode,figma&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,mongodb&perline=10" />
+</p>
+
+<h4 align="center">Frameworks & Libraries</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,redux,reactnative,tailwind,bootstrap,materialui,styledcomponents&perline=10" />
+</p>
+
+<h4 align="center">Tools & Platforms</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,nodejs,express&perline=10" />
 </p>
 
 ---
@@ -64,11 +77,17 @@ I work with **HTML**, **CSS**, **JavaScript**, **React.js**, **Next.js**, and **
   </picture>
 </p>
 
+<!-- Activity graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sdey1122&hide_border=true&radius=8&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb" alt="Activity Graph">
 </p>
 
-<!-- Snake contribution animation (needs workflow below) -->
+<!-- Metrics dashboard — PRs, reviews, issues, etc. -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sdey1122/sdey1122/metrics/metrics.svg" alt="Metrics overview (PRs, reviews, issues, activity)">
+</p>
+
+<!-- Snake contribution animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/sdey1122/sdey1122/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
 </p>
@@ -76,27 +95,31 @@ I work with **HTML**, **CSS**, **JavaScript**, **React.js**, **Next.js**, and **
 ---
 
 ### 🌟 Featured Projects
+<div align="center">
+
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" align="center">
       <h4><a href="https://github.com/sdey1122/Subhankar-Dey-Personal-Portfolio-Website">Subhankar-Dey-Personal-Portfolio-Website</a></h4>
-      <p>Personal developer portfolio focused on modern UI/UX, responsive layouts, and smooth animations—built from scratch to showcase skills and projects.</p>
+      <p>Personal developer portfolio focused on modern UI/UX, responsive layouts, and smooth animations.</p>
       <a href="https://github-readme-stats.vercel.app/api/pin/?username=sdey1122&repo=Subhankar-Dey-Personal-Portfolio-Website&theme=transparent&hide_border=true">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=sdey1122&repo=Subhankar-Dey-Personal-Portfolio-Website&theme=transparent&hide_border=true" alt="Portfolio repo pin">
       </a>
     </td>
-    <td width="50%">
+    <td width="50%" align="center">
       <h4>
         <a href="https://github.com/sdey1122/NFTX-SD-CODE">NFTX-SD-CODE</a> ·
         <a href="https://sdey1122.github.io/NFTX-SD-CODE/">Live</a>
       </h4>
-      <p>Fully responsive NFT marketplace site using HTML, CSS, Bootstrap 5, and Swiper.js—clean UI, smooth animations, and mobile-first design.</p>
+      <p>Responsive NFT marketplace using HTML, CSS, Bootstrap 5 & Swiper.js — clean UI, smooth animations, mobile-first.</p>
       <a href="https://github-readme-stats.vercel.app/api/pin/?username=sdey1122&repo=NFTX-SD-CODE&theme=transparent&hide_border=true">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=sdey1122&repo=NFTX-SD-CODE&theme=transparent&hide_border=true" alt="NFTX repo pin">
       </a>
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
