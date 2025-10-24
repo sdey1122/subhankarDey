@@ -45,7 +45,7 @@ I work with <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>React.js</b>, <b>Next
 
 <h4 align="center">Frameworks & Libraries</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,redux,reactnative,tailwind,bootstrap,materialui,styledcomponents&perline=10" />
+  <img src="https://skillicons.dev/icons?i=react,next,redux,tailwind,bootstrap,materialui,styledcomponents&perline=10" />
 </p>
 
 <h4 align="center">Tools & Platforms</h4>
