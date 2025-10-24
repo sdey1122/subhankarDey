@@ -50,7 +50,7 @@ I work with <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>React.js</b>, <b>Next
 
 <h4 align="center">Tools & Platforms</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,nodejs,express&perline=10" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux&perline=10" />
 </p>
 
 ---
