@@ -35,12 +35,10 @@ jobs:
           plugin_languages_limit: 12
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
-
           plugin_achievements: yes
           plugin_achievements_threshold: C
 
           output_action: commit
-          committer_branch: metrics     # <-- correct key
+          committer_branch: metrics
           committer_message: "chore: update metrics"
           filename: metrics.svg
-
