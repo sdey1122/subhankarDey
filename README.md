@@ -52,7 +52,7 @@ I work with <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>React.js</b>, <b>Next
 
 <h4 align="center">Tools & Platforms</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,nodejs,express&perline=10" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux&perline=10" />
 </p>
 
 ---
@@ -103,20 +103,20 @@ I work with <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>React.js</b>, <b>Next
 <table>
   <tr>
     <td width="50%" align="center">
-      <h4><a href="https://github.com/sdey1122/Subhankar-Dey-Personal-Portfolio-Website">Subhankar-Dey-Personal-Portfolio-Website</a></h4>
+      <h4><a href="https://sdey1122.github.io/Subhankar-Dey-Personal-Portfolio-Website/">Subhankar-Dey-Personal-Portfolio-Website</a></h4>
       <p>Personal developer portfolio focused on modern UI/UX, responsive layouts, and smooth animations.</p>
-      <a href="https://github-readme-stats.vercel.app/api/pin/?username=sdey1122&repo=Subhankar-Dey-Personal-Portfolio-Website&theme=transparent&hide_border=true">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sdey1122&repo=Subhankar-Dey-Personal-Portfolio-Website&theme=transparent&hide_border=true" alt="Portfolio repo pin">
+      <a href="https://sdey1122.github.io/Subhankar-Dey-Personal-Portfolio-Website/&repo=Subhankar-Dey-Personal-Portfolio-Website&theme=transparent&hide_border=true">
+        <img src="https://sdey1122.github.io/Subhankar-Dey-Personal-Portfolio-Website/&repo=Subhankar-Dey-Personal-Portfolio-Website&theme=transparent&hide_border=true" alt="Portfolio repo pin">
       </a>
     </td>
     <td width="50%" align="center">
       <h4>
-        <a href="https://github.com/sdey1122/NFTX-SD-CODE">NFTX-SD-CODE</a> ·
+        <a href="https://sdey1122.github.io/NFTX-SD-CODE/">NFTX-SD-CODE</a> ·
         <a href="https://sdey1122.github.io/NFTX-SD-CODE/">Live</a>
       </h4>
       <p>Responsive NFT marketplace using HTML, CSS, Bootstrap 5 &amp; Swiper.js — clean UI, smooth animations, mobile-first.</p>
-      <a href="https://github-readme-stats.vercel.app/api/pin/?username=sdey1122&repo=NFTX-SD-CODE&theme=transparent&hide_border=true">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sdey1122&repo=NFTX-SD-CODE&theme=transparent&hide_border=true" alt="NFTX repo pin">
+      <a href="https://sdey1122.github.io/NFTX-SD-CODE/&repo=NFTX-SD-CODE&theme=transparent&hide_border=true">
+        <img src="https://sdey1122.github.io/NFTX-SD-CODE/&repo=NFTX-SD-CODE&theme=transparent&hide_border=true" alt="NFTX repo pin">
       </a>
     </td>
   </tr>
