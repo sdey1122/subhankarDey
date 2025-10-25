@@ -7,7 +7,7 @@
 
 <!-- Typing intro -->
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=720&lines=Front-End+Developer;React.js+%7C+Next.js+%7C+React+Native;Clean+UI%2C+great+UX%2C+and+high+performance">
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=720&lines=I am a Front-End+Developer;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=720&lines=Front-End+Developer;React.js+%7C+Next.js+%7C+React+Native;Clean+UI%2C+great+UX%2C+and+high+performance" alt="Typing intro">
   </a>
 </p>
