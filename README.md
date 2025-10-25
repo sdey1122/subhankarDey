@@ -105,8 +105,8 @@ I work with <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>React.js</b>, <b>Next
     <td width="50%" align="center">
       <h4><a href="https://sdey1122.github.io/Subhankar-Dey-Personal-Portfolio-Website/">Subhankar-Dey-Personal-Portfolio-Website</a></h4>
       <p>Personal developer portfolio focused on modern UI/UX, responsive layouts, and smooth animations.</p>
-      <a href="https://sdey1122.github.io/Subhankar-Dey-Personal-Portfolio-Website/&repo=Subhankar-Dey-Personal-Portfolio-Website&theme=transparent&hide_border=true">
-        <img src="https://sdey1122.github.io/Subhankar-Dey-Personal-Portfolio-Website/&repo=Subhankar-Dey-Personal-Portfolio-Website&theme=transparent&hide_border=true" alt="Portfolio repo pin">
+      <a href="https://github-readme-stats.vercel.app/api/pin/?username=sdey1122&repo=Subhankar-Dey-Personal-Portfolio-Website&theme=transparent&hide_border=true">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sdey1122&repo=Subhankar-Dey-Personal-Portfolio-Website&theme=transparent&hide_border=true" alt="Portfolio repo pin">
       </a>
     </td>
     <td width="50%" align="center">
@@ -115,8 +115,8 @@ I work with <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>React.js</b>, <b>Next
         <a href="https://sdey1122.github.io/NFTX-SD-CODE/">Live</a>
       </h4>
       <p>Responsive NFT marketplace using HTML, CSS, Bootstrap 5 &amp; Swiper.js — clean UI, smooth animations, mobile-first.</p>
-      <a href="https://sdey1122.github.io/NFTX-SD-CODE/&repo=NFTX-SD-CODE&theme=transparent&hide_border=true">
-        <img src="https://sdey1122.github.io/NFTX-SD-CODE/&repo=NFTX-SD-CODE&theme=transparent&hide_border=true" alt="NFTX repo pin">
+      <a href="https://github-readme-stats.vercel.app/api/pin/?username=sdey1122&repo=NFTX-SD-CODE&theme=transparent&hide_border=true">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sdey1122&repo=NFTX-SD-CODE&theme=transparent&hide_border=true" alt="NFTX repo pin">
       </a>
     </td>
   </tr>
