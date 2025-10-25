@@ -98,63 +98,40 @@ I work with <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>React.js</b>, <b>Next
 ---
 
 ### 🌟 Featured Projects
+
 <div align="center">
 
 <table>
   <tr>
     <!-- CARD 1 -->
     <td width="48%" align="center">
-      <div style="
-        background:#171922;
-        border:2px solid #2a2f3a;
-        border-radius:14px;
-        padding:18px 22px;
-        margin:10px 6px;
-        text-align:left;
-        max-width:680px;">
-        
-        <h3 style="margin:0 0 10px;font-size:26px;color:#ff4d8d;">
-          Subhankar-Dey-Personal-Portfolio-Website
-        </h3>
-
+      <div style="background:#171922;border:2px solid #2a2f3a;border-radius:14px;padding:18px 22px;margin:10px 6px;text-align:left;max-width:680px;">
+        <h3 style="margin:0 0 10px;font-size:26px;color:#ff4d8d;">Subhankar-Dey-Personal-Portfolio-Website</h3>
         <p style="margin:0 0 12px;font-size:18px;line-height:1.5;">
-          <a href="https://github.com/sdey1122/Subhankar-Dey-Personal-Portfolio-Website" 
-             style="color:#7ee7ff;text-decoration:none;">
+          <a href="https://github.com/sdey1122/Subhankar-Dey-Personal-Portfolio-Website" style="color:#7ee7ff;text-decoration:none;">
             https://github.com/sdey1122/Subhankar-Dey-Personal-Portfolio-Website
           </a>
         </p>
-
         <div style="display:flex;align-items:center;gap:10px;color:#ffd54a;font-weight:600;">
           <span style="height:12px;width:12px;background:#ffd54a;border-radius:50%;display:inline-block;"></span>
           <span>JavaScript</span>
         </div>
       </div>
     </td>
-
     <!-- CARD 2 -->
     <td width="48%" align="center">
-      <div style="
-        background:#171922;
-        border:2px solid #2a2f3a;
-        border-radius:14px;
-        padding:18px 22px;
-        margin:10px 6px;
-        text-align:left;
-        max-width:680px;">
-
+      <div style="background:#171922;border:2px solid #2a2f3a;border-radius:14px;padding:18px 22px;margin:10px 6px;text-align:left;max-width:680px;">
         <h3 style="margin:0 0 10px;font-size:26px;color:#ff4d8d;">
-          NFTX-SD-CODE <span style="font-size:18px;font-weight:600;">· 
+          NFTX-SD-CODE
+          <span style="font-size:18px;font-weight:600;"> ·
             <a href="https://sdey1122.github.io/NFTX-SD-CODE/" style="color:#7ee7ff;text-decoration:none;">Live</a>
           </span>
         </h3>
-
         <p style="margin:0 0 12px;font-size:18px;line-height:1.5;">
-          <a href="https://github.com/sdey1122/NFTX-SD-CODE" 
-             style="color:#7ee7ff;text-decoration:none;">
+          <a href="https://github.com/sdey1122/NFTX-SD-CODE" style="color:#7ee7ff;text-decoration:none;">
             https://github.com/sdey1122/NFTX-SD-CODE
           </a>
         </p>
-
         <div style="display:flex;align-items:center;gap:10px;color:#ff6a3d;font-weight:600;">
           <span style="height:12px;width:12px;background:#ff6a3d;border-radius:50%;display:inline-block;"></span>
           <span>HTML</span>
@@ -165,6 +142,7 @@ I work with <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>React.js</b>, <b>Next
 </table>
 
 </div>
+
 
 ---
 
