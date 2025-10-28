@@ -7,10 +7,11 @@
 
 <!-- Typing intro -->
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=1080&lines=Hi+I+am+Subhankar+Dey;Front-End+Developer;HTML+|+CSS+|+Boostrap+|+Tailwind;JavaScript+|+React+JS;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=1080&lines=Hi+I+am+Subhankar+Dey;Front-End+Developer;HTML+|+CSS+|+Boostrap+|+Tailwind;JavaScript+|+React+JS;" alt="Typing intro">
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=100&pause=1200&center=true&vCenter=true&width=1080&lines=Hi+I+am+Subhankar+Dey;Front-End+Developer;HTML+|+CSS+|+Bootstrap+|+Tailwind;JavaScript+|+React+JS;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=100&pause=1200&center=true&vCenter=true&width=1080&lines=Hi+I+am+Subhankar+Dey;Front-End+Developer;HTML+|+CSS+|+Bootstrap+|+Tailwind;JavaScript+|+React+JS;" alt="Typing intro">
   </a>
 </p>
+
 
 <!-- Badges / counters -->
 <p align="center">
@@ -82,14 +83,6 @@ I work with <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>React.js</b>, <b>Next
 <!-- Activity graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sdey1122&hide_border=true&radius=8&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb" alt="Activity Graph">
-</p>
-
-<!-- Metrics & Snake -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sdey1122/sdey1122/metrics/metrics.svg" alt="Metrics overview (PRs, reviews, issues, activity)">
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sdey1122/sdey1122/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
 </p>
 
 ---
