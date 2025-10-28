@@ -7,10 +7,11 @@
 
 <!-- Typing intro -->
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1200&center=true&vCenter=true&width=1080&lines=Hi+👋+I'm+Subhankar+Dey;Front-End+Developer;HTML+|+CSS+|+Bootstrap+|+Tailwind;JavaScript+|+React+JS;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1200&center=true&vCenter=true&width=1080&lines=Hi+👋+I'm+Subhankar+Dey;Front-End+Developer;HTML+|+CSS+|+Bootstrap+|+Tailwind;JavaScript+|+React+JS;" alt="Typing intro">
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&center=true&vCenter=true&width=1080&lines=Hi!+I+am+Subhankar+Dey;Front-End+Developer;HTML+|+CSS+|+Bootstrap+|+Tailwind;JavaScript+|+React+JS;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&center=true&vCenter=true&width=1080&lines=Hi!+I+am+Subhankar+Dey;Front-End+Developer;HTML+|+CSS+|+Bootstrap+|+Tailwind;JavaScript+|+React+JS;" alt="Typing intro">
   </a>
 </p>
+
 
 <!-- Badges / counters -->
 <p align="center">
