@@ -87,7 +87,7 @@ I work with <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>React.js</b>, <b>Next
 
 ---
 
-### 🌟 Featured Projects 
+### 🌟 Featured Projects
 
 <!-- Redesigned: 2×2 card grid with compact badges and clear CTAs -->
 <div align="center">
