@@ -98,6 +98,7 @@ I work with <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>React.js</b>, <b>Next
       <div style="background:#0d1117;border:1px solid #30363d;border-radius:14px;padding:18px 22px;margin:10px 6px;text-align:left;max-width:680px;">
         <h3 style="margin:0 0 12px;font-size:22px;line-height:1.3;">
           <span>🧭 Personal Portfolio</span>
+          <span style="font-size:14px;font-weight:600;"> · <a href="https://sdey1122.github.io/NFTX-SD-CODE/" style="color:#7ee7ff;text-decoration:none;">Live</a></span>
         </h3>
         <p style="margin:0 0 10px;">
           Modern portfolio with animated sections, responsive layout, and clean component structure.
