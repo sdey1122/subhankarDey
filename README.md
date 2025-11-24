@@ -83,56 +83,48 @@ I work with <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>React.js</b>, <b>Next
 <table>
   <tr>
 
-    <!-- CARD 1: LuxeShop -->
+    <!-- CARD 1 -->
     <td width="48%" align="center">
       <div style="background:#0d1117;border:1px solid #30363d;border-radius:14px;padding:18px 22px;margin:10px 6px;text-align:left;max-width:680px;">
         <h3 style="margin:0 0 12px;font-size:22px;line-height:1.3;">
-          💄 LuxeShop – Beauty E-Commerce
-          <span style="font-size:14px;font-weight:600;">
-            · <a href="https://theluxeshop.vercel.app/" style="color:#7ee7ff;text-decoration:none;">Live</a>
+          <span>🧭 Personal Portfolio</span>
+          <span style="font-size:14px;font-weight:600;"> · 
+            <a href="https://sdey1122.github.io/Subhankar-Dey-Personal-Portfolio-Website/" style="color:#7ee7ff;text-decoration:none;">Live</a>
           </span>
         </h3>
         <p style="margin:0 0 10px;">
-          Premium multi-page beauty website with elegant UI, responsive layouts, and fluid animations.
+          Modern portfolio with animated sections, responsive layout, and clean component structure.
         </p>
         <p style="margin:0 10px 12px 0;">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-          <img src="https://img.shields.io/badge/JavaScript-ffd54a?style=flat-square&logo=javascript&logoColor=000" />
-          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+          <img alt="JS" src="https://img.shields.io/badge/JavaScript-ffd54a?logo=javascript&logoColor=000&labelColor=1f2328&style=flat-square">
+          <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&labelColor=1f2328&style=flat-square">
+          <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&labelColor=1f2328&style=flat-square">
         </p>
         <p style="margin:0;">
-          <a href="https://github.com/sdey1122/LuxeShop"
-             style="background:#238636;color:white;padding:8px 12px;border-radius:8px;text-decoration:none;font-weight:600;">
-            Repository
-          </a>
+          <a href="https://github.com/sdey1122/Subhankar-Dey-Personal-Portfolio-Website" style="background:#238636;color:#fff;padding:8px 12px;border-radius:8px;text-decoration:none;font-weight:600;">Repository</a>
         </p>
       </div>
     </td>
 
-    <!-- CARD 2: FitIn -->
+    <!-- CARD 2 -->
     <td width="48%" align="center">
       <div style="background:#0d1117;border:1px solid #30363d;border-radius:14px;padding:18px 22px;margin:10px 6px;text-align:left;max-width:680px;">
         <h3 style="margin:0 0 12px;font-size:22px;line-height:1.3;">
-          🏋️ FitIn – Multipage Gym Website
-          <span style="font-size:14px;font-weight:600;">
-            · <a href="https://fitin-lp.vercel.app/" style="color:#7ee7ff;text-decoration:none;">Live</a>
+          <span>🧩 NFTX-SD-CODE</span>
+          <span style="font-size:14px;font-weight:600;"> · 
+            <a href="https://sdey1122.github.io/NFTX-SD-CODE/" style="color:#7ee7ff;text-decoration:none;">Live</a>
           </span>
         </h3>
         <p style="margin:0 0 10px;">
-          Modern gym website with dark UI, trainers, pricing cards, membership forms, and smooth JS-powered interactions.
+          Static NFT landing with sections, icons, and neat layout—pure HTML with thoughtful semantics.
         </p>
         <p style="margin:0 10px 12px 0;">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-          <img src="https://img.shields.io/badge/JavaScript-ffd54a?style=flat-square&logo=javascript&logoColor=000" />
-          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+          <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&labelColor=1f2328&style=flat-square">
+          <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&labelColor=1f2328&style=flat-square">
         </p>
         <p style="margin:0;">
-          <a href="https://github.com/sdey1122/FitIn"
-             style="background:#238636;color:white;padding:8px 12px;border-radius:8px;text-decoration:none;font-weight:600;">
-            Repository
-          </a>
+          <a href="https://github.com/sdey1122/NFTX-SD-CODE" style="background:#238636;color:#fff;padding:8px 12px;border-radius:8px;text-decoration:none;font-weight:600;">Repository</a>
+          <a href="https://sdey1122.github.io/NFTX-SD-CODE/" style="margin-left:8px;background:#1f6feb;color:#fff;padding:8px 12px;border-radius:8px;text-decoration:none;font-weight:600;">Live Demo</a>
         </p>
       </div>
     </td>
@@ -140,58 +132,42 @@ I work with <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>React.js</b>, <b>Next
   </tr>
   <tr>
 
-    <!-- CARD 3: Beacon One Capital -->
+    <!-- CARD 3 -->
     <td width="48%" align="center">
       <div style="background:#0d1117;border:1px solid #30363d;border-radius:14px;padding:18px 22px;margin:10px 6px;text-align:left;max-width:680px;">
         <h3 style="margin:0 0 12px;font-size:22px;line-height:1.3;">
-          🏛️ Beacon One Capital – Corporate Website
-          <span style="font-size:14px;font-weight:600;">
-            · <a href="https://beacon-one-capital.vercel.app/" style="color:#7ee7ff;text-decoration:none;">Live</a>
-          </span>
+          <span>💄 LuxeShop – Beauty E-Commerce</span>
         </h3>
         <p style="margin:0 0 10px;">
-          Sleek corporate website with finance-focused sections, hero layout, and responsive structure across devices.
+          Premium multi-page beauty website with elegant UI, responsive layouts, and stunning animations.
         </p>
         <p style="margin:0 10px 12px 0;">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-          <img src="https://img.shields.io/badge/JavaScript-ffd54a?style=flat-square&logo=javascript&logoColor=000" />
-          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+          <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
+          <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
+          <img alt="JS" src="https://img.shields.io/badge/JavaScript-ffd54a?style=flat-square&logo=javascript&logoColor=000">
         </p>
         <p style="margin:0;">
-          <a href="https://github.com/sdey1122/Beacon-One-Capital"
-             style="background:#238636;color:white;padding:8px 12px;border-radius:8px;text-decoration:none;font-weight:600;">
-            Repository
-          </a>
+          <a href="https://github.com/sdey1122/LuxeShop" style="background:#238636;color:#fff;padding:8px 12px;border-radius:8px;text-decoration:none;font-weight:600;">Repository</a>
         </p>
       </div>
     </td>
 
-    <!-- CARD 4: NFTX -->
+    <!-- CARD 4 -->
     <td width="48%" align="center">
       <div style="background:#0d1117;border:1px solid #30363d;border-radius:14px;padding:18px 22px;margin:10px 6px;text-align:left;max-width:680px;">
         <h3 style="margin:0 0 12px;font-size:22px;line-height:1.3;">
-          🧩 NFTX – NFT Landing Page
-          <span style="font-size:14px;font-weight:600;">
-            · <a href="https://sdey1122.github.io/NFTX-SD-CODE/" style="color:#7ee7ff;text-decoration:none;">Live</a>
-          </span>
+          <span>🏛️ Beacon One Capital</span>
         </h3>
         <p style="margin:0 0 10px;">
-          Minimal NFT landing page with structured sections, clean layout, and neat visual hierarchy.
+          Corporate multi-page finance website with structured layouts and elegant business styling.
         </p>
         <p style="margin:0 10px 12px 0;">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+          <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
+          <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
+          <img alt="JS" src="https://img.shields.io/badge/JavaScript-ffd54a?style=flat-square&logo=javascript&logoColor=000">
         </p>
         <p style="margin:0;">
-          <a href="https://github.com/sdey1122/NFTX-SD-CODE"
-             style="background:#238636;color:white;padding:8px 12px;border-radius:8px;text-decoration:none;font-weight:600;">
-            Repository
-          </a>
-          <a href="https://sdey1122.github.io/NFTX-SD-CODE/"
-             style="margin-left:8px;background:#1f6feb;color:white;padding:8px 12px;border-radius:8px;text-decoration:none;font-weight:600;">
-            Live Demo
-          </a>
+          <a href="https://github.com/sdey1122/Beacon-One-Capital" style="background:#238636;color:#fff;padding:8px 12px;border-radius:8px;text-decoration:none;font-weight:600;">Repository</a>
         </p>
       </div>
     </td>
@@ -199,6 +175,7 @@ I work with <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>React.js</b>, <b>Next
   </tr>
 </table>
 </div>
+
 
 ---
 
