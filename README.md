@@ -12,7 +12,6 @@
   </a>
 </p>
 
-
 <!-- Badges / counters -->
 <p align="center">
   <a href="https://github.com/sdey1122?tab=followers">
@@ -27,6 +26,7 @@
 ---
 
 ### ✨ About Me
+
 <p align="center">
 I’m <b>Subhankar Dey</b>, a <b>Front-End Developer</b> who turns ideas into clean, responsive, accessible, and visually engaging products.<br/>
 I work with <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>React.js</b>, <b>Next.js</b>, and <b>React Native</b>—crafting modern UI with <b>Tailwind CSS</b> &amp; <b>Bootstrap</b>.
@@ -80,7 +80,7 @@ I work with <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>React.js</b>, <b>Next
   </picture>
 </p>
 
-<!-- Activity graph -->
+<!-- Activity graph (this ALWAYS uses real data, cannot force fake values) -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sdey1122&hide_border=true&radius=8&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb" alt="Activity Graph">
 </p>
@@ -89,83 +89,92 @@ I work with <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>React.js</b>, <b>Next
 
 ### 🌟 Featured Projects
 
-<!-- Redesigned: 2×2 card grid with compact badges and clear CTAs -->
+<!-- 2×2 card grid with compact badges and clear CTAs -->
 <div align="center">
 <table>
   <tr>
-    <!-- CARD 1 -->
+
+    <!-- CARD 1: LuxeShop -->
     <td width="48%" align="center">
       <div style="background:#0d1117;border:1px solid #30363d;border-radius:14px;padding:18px 22px;margin:10px 6px;text-align:left;max-width:680px;">
         <h3 style="margin:0 0 12px;font-size:22px;line-height:1.3;">
-          <span>🧭 Personal Portfolio</span>
-          <span style="font-size:14px;font-weight:600;"> · <a href="https://sdey1122.github.io/Subhankar-Dey-Personal-Portfolio-Website/" style="color:#7ee7ff;text-decoration:none;">Live</a></span>
+          <span>💄 LuxeShop – Beauty E-Commerce</span>
+          <span style="font-size:14px;font-weight:600;"> · <a href="https://theluxeshop.vercel.app/" style="color:#7ee7ff;text-decoration:none;">Live</a></span>
         </h3>
         <p style="margin:0 0 10px;">
-          Modern portfolio with animated sections, responsive layout, and clean component structure.
+          A premium multi-page beauty e-commerce website with elegant UI, responsive sections, smooth animations, and a luxury brand aesthetic.
         </p>
         <p style="margin:0 10px 12px 0;">
+          <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&labelColor=1f2328&style=flat-square">
+          <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&labelColor=1f2328&style=flat-square">
           <img alt="JS" src="https://img.shields.io/badge/JavaScript-ffd54a?logo=javascript&logoColor=000&labelColor=1f2328&style=flat-square">
-          <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&labelColor=1f2328&style=flat-square">
           <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&labelColor=1f2328&style=flat-square">
         </p>
         <p style="margin:0;">
-          <a href="https://github.com/sdey1122/Subhankar-Dey-Personal-Portfolio-Website" style="background:#238636;color:#fff;padding:8px 12px;border-radius:8px;text-decoration:none;font-weight:600;">Repository</a>
+          <a href="https://github.com/sdey1122/LuxeShop" style="background:#238636;color:#fff;padding:8px 12px;border-radius:8px;text-decoration:none;font-weight:600;">Repository</a>
         </p>
       </div>
     </td>
-    <!-- CARD 2 -->
+
+    <!-- CARD 2: FitIn -->
     <td width="48%" align="center">
-      <div style="background:#0d1117;border:1px solid #30363d;border-radius:14px;padding:18px 22px;margin:10px 6px;text-align:left;max-width:680px;">
+      <div style="background:#0d1117;border:1px solid:#30363d;border-radius:14px;padding:18px 22px;margin:10px 6px;text-align:left;max-width:680px;">
         <h3 style="margin:0 0 12px;font-size:22px;line-height:1.3;">
-          <span>🧩 NFTX-SD-CODE</span>
-          <span style="font-size:14px;font-weight:600;"> · <a href="https://sdey1122.github.io/NFTX-SD-CODE/" style="color:#7ee7ff;text-decoration:none;">Live</a></span>
+          <span>🏋️ FitIn – Multipage Gym Website</span>
+          <span style="font-size:14px;font-weight:600;"> · <a href="https://fitin-lp.vercel.app/" style="color:#7ee7ff;text-decoration:none;">Live</a></span>
         </h3>
         <p style="margin:0 0 10px;">
-          Static NFT landing with sections, icons, and neat layout—pure HTML with thoughtful semantics.
+          Clean, modern gym website with dark UI, trainer sections, pricing cards, membership forms, and smooth JS-powered interactions.
         </p>
         <p style="margin:0 10px 12px 0;">
-          <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&labelColor=1f2328&style=flat-square">
-          <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&labelColor=1f2328&style=flat-square">
+          <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&labelColor=1f2328&style=flat-square">
+          <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&labelColor=1f2328&style=flat-square">
+          <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&labelColor=1f2328&style=flat-square">
+          <img alt="JS" src="https://img.shields.io/badge/JavaScript-ffd54a?logo=javascript&logoColor=000&labelColor=1f2328&style=flat-square">
         </p>
         <p style="margin:0;">
-          <a href="https://github.com/sdey1122/NFTX-SD-CODE" style="background:#238636;color:#fff;padding:8px 12px;border-radius:8px;text-decoration:none;font-weight:600;">Repository</a>
-          <a href="https://sdey1122.github.io/NFTX-SD-CODE/" style="margin-left:8px;background:#1f6feb;color:#fff;padding:8px 12px;border-radius:8px;text-decoration:none;font-weight:600;">Live Demo</a>
+          <a href="https://github.com/sdey1122/FitIn" style="background:#238636;color:#fff;padding:8px 12px;border-radius:8px;text-decoration:none;font-weight:600;">Repository</a>
         </p>
       </div>
     </td>
+
   </tr>
   <tr>
-    <!-- CARD 3 (Duplicate of CARD 1 as requested) -->
+
+    <!-- CARD 3: Beacon One Capital -->
     <td width="48%" align="center">
       <div style="background:#0d1117;border:1px solid #30363d;border-radius:14px;padding:18px 22px;margin:10px 6px;text-align:left;max-width:680px;">
         <h3 style="margin:0 0 12px;font-size:22px;line-height:1.3;">
-          <span>🧭 Personal Portfolio (v2)</span>
+          <span>🏛️ Beacon One Capital – Corporate Website</span>
+          <span style="font-size:14px;font-weight:600;"> · <a href="https://beacon-one-capital.vercel.app/" style="color:#7ee7ff;text-decoration:none;">Live</a></span>
         </h3>
         <p style="margin:0 0 10px;">
-          Duplicate showcase of the portfolio repo for 4-card grid consistency.
+          A polished corporate website built with a clean layout, business-focused sections, and responsive design tailored for finance brands.
         </p>
-        <p style="margin:0 10px 12px 0;">
-          <img alt="JS" src="https://img.shields.io/badge/JavaScript-ffd54a?logo=javascript&logoColor=000&labelColor=1f2328&style=flat-square">
-          <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&labelColor=1f2328&style=flat-square">
+        <p style="margin:0 10px 12px 0%;">
+          <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&labelColor=1f2328&style=flat-square">
+          <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&labelColor=1f2328&style=flat-square">
           <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&labelColor=1f2328&style=flat-square">
+          <img alt="JS" src="https://img.shields.io/badge/JavaScript-ffd54a?logo=javascript&logoColor=000&labelColor=1f2328&style=flat-square">
         </p>
         <p style="margin:0;">
-          <a href="https://github.com/sdey1122/Subhankar-Dey-Personal-Portfolio-Website" style="background:#238636;color:#fff;padding:8px 12px;border-radius:8px;text-decoration:none;font-weight:600;">Repository</a>
+          <a href="https://github.com/sdey1122/Beacon-One-Capital" style="background:#238636;color:#fff;padding:8px 12px;border-radius:8px;text-decoration:none;font-weight:600;">Repository</a>
         </p>
       </div>
     </td>
-    <!-- CARD 4 (Duplicate of CARD 2 as requested) -->
+
+    <!-- CARD 4: NFTX -->
     <td width="48%" align="center">
       <div style="background:#0d1117;border:1px solid #30363d;border-radius:14px;padding:18px 22px;margin:10px 6px;text-align:left;max-width:680px;">
         <h3 style="margin:0 0 12px;font-size:22px;line-height:1.3;">
-          <span>🧩 NFTX-SD-CODE (v2)</span>
+          <span>🧩 NFTX – NFT Landing Page</span>
           <span style="font-size:14px;font-weight:600;"> · <a href="https://sdey1122.github.io/NFTX-SD-CODE/" style="color:#7ee7ff;text-decoration:none;">Live</a></span>
         </h3>
         <p style="margin:0 0 10px;">
-          Duplicate showcase of the NFT landing to complete the 2×2 layout.
+          A clean NFT landing page with structured sections, icons, and minimalistic design—built entirely with semantic HTML & CSS.
         </p>
         <p style="margin:0 10px 12px 0;">
-          <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&labelColor=1f2328&style=flat-square">
+          <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&labelColor=1f2328&style=flat-square">
           <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&labelColor=1f2328&style=flat-square">
         </p>
         <p style="margin:0;">
@@ -174,6 +183,7 @@ I work with <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>React.js</b>, <b>Next
         </p>
       </div>
     </td>
+
   </tr>
 </table>
 </div>
@@ -181,6 +191,7 @@ I work with <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>React.js</b>, <b>Next
 ---
 
 ### 📫 Let’s Connect
+
 <p align="center">
   <a href="https://www.linkedin.com/in/subhankar-dey-154051189/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:subhankardey1122@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
