@@ -32,9 +32,11 @@ Frontend Engineer focused on building **scalable, maintainable, and performant w
 
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=sdey1122&label=Profile%20Views&color=0e75b6)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sdey1122&show_icons=true&theme=default&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sdey1122&theme=default&hide_border=true)
 
 ---
 
