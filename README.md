@@ -1,4 +1,4 @@
-## Hi, I'm Subhankar 👋
+## Hi, I'm Subhankar
 
 Frontend Engineer focused on building **scalable, maintainable, and performant web applications**.
 
