@@ -1,92 +1,49 @@
-<div align="center">
+## Hi, I'm Subhankar 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Hey,%20I'm%20Subhankar&fontAlign=50&fontAlignY=40&color=gradient&desc=Frontend%20Engineer%20|%20React%20%26%20Modern%20Web&descAlign=50&descAlignY=60" />
+Frontend Engineer focused on building **scalable, maintainable, and performant web applications**.
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars" />
-</p>
-
-</div>
-
----
-
-## About
-
-Frontend Engineer focused on building **clean, scalable, and animated web experiences**.  
-I care deeply about **UI polish, performance, and long-term maintainability**.
-
-- Strong in **JavaScript, React, and modern CSS**
-- Experience with **Redux & complex state management**
-- Currently strengthening **backend fundamentals & architecture**
-- Consistent daily contributor
+- Strong foundation in **JavaScript, TypeScript, and React**
+- Experience with **modern UI systems and state management**
+- Passionate about **clean code, UI polish, and performance**
+- Currently strengthening **backend fundamentals**
 
 ---
 
 ## Tech Stack
 
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,js,ts,react,nextjs,redux,git,github" />
-</p>
+**Frontend**
+- HTML, CSS
+- JavaScript (ES6+), TypeScript
+- React, Next.js
+- Redux, Redux Toolkit
+- Tailwind CSS, Material UI
 
-### Backend (Strengthening)
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb" />
-</p>
+**Backend (Working Knowledge)**
+- Node.js, Express.js
+- NestJS
+- MongoDB
 
-### Animation & UX
-<p>
-<img src="https://skillicons.dev/icons?i=gsap" />
-<img src="https://img.shields.io/badge/AOS-Scroll%20Animation-blue?style=flat" />
-</p>
-
----
-
-## Weekly Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+**Tools & Practices**
+- Git, GitHub
+- REST APIs
+- Component-driven development
+- Performance optimization
 
 ---
 
 ## GitHub Activity
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default&hide_border=true)
 
 ---
 
-## Contributions Overview
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" />
-
-</div>
+## Currently
+- Improving **system design & backend architecture**
+- Practicing **DSA & problem solving**
+- Building real-world projects with React
 
 ---
 
-## Support
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/YOUR_USERNAME">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&button_colour=FFDD00&font_colour=000000&font_family=Inter" />
-  </a>
-</p>
-
----
-
-<div align="center">
-
-*Consistency > Motivation*  
-*Shipping > Planning*
-
-</div>
-
+📫 Reach me via GitHub
