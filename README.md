@@ -5,7 +5,6 @@ Frontend Engineer focused on building **scalable, maintainable, and performant w
 - Strong foundation in **JavaScript, TypeScript, and React**
 - Experience with **modern UI systems and state management**
 - Passionate about **clean code, UI polish, and performance**
-- Currently strengthening **backend fundamentals**
 
 ---
 
