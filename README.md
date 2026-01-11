@@ -34,9 +34,19 @@ Frontend Engineer focused on building **scalable, maintainable, and performant w
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sdey1122&label=Profile%20Views&color=0e75b6)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sdey1122&show_icons=true&theme=default&hide_border=true)
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sdey1122&show_icons=true&hide_border=true"
+    height="165"
+  />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sdey1122&theme=default&hide_border=true)
+<p align="left">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sdey1122&hide_border=true"
+    height="165"
+  />
+</p>
 
 ---
 
