@@ -39,6 +39,10 @@ Frontend Engineer focused on building **scalable, maintainable, and performant w
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
+---
+
 ## Links
 
 - **GitHub:** https://github.com/sdey1122  
