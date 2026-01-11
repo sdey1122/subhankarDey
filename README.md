@@ -39,7 +39,7 @@ Frontend Engineer focused on building **scalable, maintainable, and performant w
 
 ---
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sdey1122&theme=highcontrast" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats-opal-chi-89.vercel.app?user=sdey1122&theme=highcontrast)](https://git.io/streak-stats)
 
 ---
 
