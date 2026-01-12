@@ -17,7 +17,7 @@ Frontend Engineer focused on building **scalable, maintainable, and performant w
 - JavaScript (ES6+), TypeScript
 - React, Next.js
 - Redux, Redux Toolkit
-- Tailwind CSS, Material UI
+- Bootstrap, Tailwind CSS, Material UI
 
 **Backend (Working Knowledge)**
 - Node.js, Express.js
