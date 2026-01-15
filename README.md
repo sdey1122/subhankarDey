@@ -10,7 +10,7 @@ Frontend Engineer focused on building **scalable, maintainable, and performant w
 
 ---
 
-## Tech Stack zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+## Tech Stack
 
 **Frontend**
 - HTML, CSS
